@@ -1,0 +1,3 @@
+pycodestyle==2.6.0
+pydocstyle==5.1.1
+wordfreq==2.3.2
