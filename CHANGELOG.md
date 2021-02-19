@@ -7,7 +7,7 @@ Notable changes to the `ghost` repository, beginning with version 1.1.0, will be
 
 
 ## [1.1.1] - 2021-02-18
-### Added
+### Fixed
 - Fixed versioning error.
 
 
