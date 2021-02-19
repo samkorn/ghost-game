@@ -6,6 +6,11 @@ Notable changes to the `ghost` repository, beginning with version 1.1.0, will be
 *The formatting for this change log is based on the guidelines set by the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) initiative.*
 
 
+## [1.2.1] - 2021-02-18
+### Updated
+- Updated `requirements.txt` to add nose2.
+
+
 ## [1.2.0] - 2021-02-18
 ### Added
 - Created a testing and style checking bash script, `run_tests.sh`.
